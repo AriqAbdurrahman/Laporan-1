@@ -1,0 +1,14 @@
+Nama : Ariq Abdurrahman
+NPM : G1A021036
+1. Jelaskan konsep OOP pada PHP
+
+  Ketika aplikasi atau website semakin besar, maka kode yang ada di dalamnya pun akan semakin kompleks. Tentunya, jika developer tidak mengerti konsep pembuatan aplikasi,
+maka kode akan sulit untuk dibaca dan dikelola. Untungnya, ada OOP yang dapat membantu membuat kode menjadi lebih rapi dan mudah dikelola. Dengan menggunakan OOP,
+maka membuat besar pun akan menjadi lebih simpel serta hemat waktu. Hal ini disebabkan karena kode yang ditulis dapat digunakan berkali-kali tanpa perlu menuliskan lagi kode yang sama.
+
+  OOP adalah singkatan dari Object Oriented Programing atau yang jika diubah kedalam Bahasa Indonesia adalah “Pemrograman Berbasis Objek”. Sederhananya, OOP adalah konsep pembuatan suatu program 
+dengan cara memecah kode program menjadi bagian yang lebih sederhana dengan menggunakan object. Object ini nantinya akan memiliki fungsi khusus yang dapat berdiri secara independen.
+Untuk membuat sebuah aplikasi atau program, nantinya berbagai object yang ada akan saling bertukar data untuk saling terhubung satu sama lain dan memberikan hasil yang lebih sempurna.
+Cukup berbeda dengan konsep fungsi di dalam sistem pemrograman, nantinya sebuah object akan memiliki data dan function masing masing. Data merupakan informasi yang terkandung di dalam suatu object. 
+Sedangkan function merupakan berbagai kode program yang dibungkus dalam satu blok.Hingga saat ini, OOP sendiri sudah menjadi salah satu standar dalam bidang pemrograman modern termasuk PHP. Umumnya, 
+pembuatan program PHP tidak harus dibuat menggunakan OOP sama sekali.
